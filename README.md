@@ -1,6 +1,6 @@
 # api
 
-FIXME
+Store data in mongoDB collections using GET requests.
 
 ## Usage
 
@@ -21,4 +21,4 @@ java -jar target/server.jar
 
 ## License
 
-Copyright ©  FIXME
+Copyright © Andrés Gómez U
